@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+*{
+margin: 0;
+padding: 0;
+}
+.container{
+
+background: teal;
+display: flex;
+justify-content: center;
+width: 100vw;
+height: 10vh;
+margin-top: 200px;
+}
+.container h1{
+
+font-size: 3em;
+
+}
